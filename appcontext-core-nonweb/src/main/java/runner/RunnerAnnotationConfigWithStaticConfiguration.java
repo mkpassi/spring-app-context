@@ -1,4 +1,4 @@
-package runner.nonweb;
+package runner;
 
 import beans.SimpleBean;
 import configuration.ConfigurationManuallyDefined;

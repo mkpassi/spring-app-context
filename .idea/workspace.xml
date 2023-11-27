@@ -4,11 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f40f3d2-6c72-4753-81d0-f3e013dc858b" name="Changes" comment="" />
+    <list default="true" id="4f40f3d2-6c72-4753-81d0-f3e013dc858b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-boot-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-boot-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-boot-web/src/main/java/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-boot-web/src/main/java/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-boot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-boot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-boot/src/main/java/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-boot/src/main/java/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-core-nonweb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-core-nonweb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-core-nonweb/src/main/java/runner/RunnerAnnotationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-core-nonweb/src/main/java/runner/RunnerAnnotationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-core-nonweb/src/main/java/runner/RunnerAnnotationConfigWithStaticConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-core-nonweb/src/main/java/runner/RunnerAnnotationConfigWithStaticConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-core-nonweb/src/main/java/runner/RunnerClassPathXMLAppContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-core-nonweb/src/main/java/runner/RunnerClassPathXMLAppContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-core-nonweb/src/main/java/runner/RunnerFileSystemXMLApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-core-nonweb/src/main/java/runner/RunnerFileSystemXMLApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-web-annotation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-web-annotation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-web-annotation/src/main/java/RunnerWebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-web-annotation/src/main/java/RunnerWebAppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-web-annotation/src/main/java/beans/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-web-annotation/src/main/java/beans/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-web-xml/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-web-xml/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-web-xml/src/main/java/RunnerXMLApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-web-xml/src/main/java/RunnerXMLApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appcontext-web-xml/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/appcontext-web-xml/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationcontext-web-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationcontext-web-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/java/beans/SimpleBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/java/beans/SimpleBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/java/beans/SimpleBean2.java" beforeDir="false" afterPath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/java/beans/SimpleBean2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/java/beans/SimpleBean3.java" beforeDir="false" afterPath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/java/beans/SimpleBean3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/java/beans/SpringController.java" beforeDir="false" afterPath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/java/beans/SpringController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/webapp/WEB-INF/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationcontext-web-basic/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YhtU7tYGTVIpOoiB8VxH7DXyXE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,11 +59,102 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "D:/code/tutorials/spring-basics/appcontext-web-xml/src/main",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\tutorials\spring-basics\appcontext-web-xml\src\main" />
+      <recent name="D:\code\tutorials\spring-basics\appcontext-web-xml\src\main\java" />
+      <recent name="D:\code\tutorials\spring-basics\appcontext-web-annotation\src\main" />
+      <recent name="D:\code\tutorials\spring-basics\appcontext-web-annotation\src\main\java" />
+      <recent name="D:\code\tutorials\spring-basics\applicationcontext-web-basic\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="http-client [id=null, sampleId=MH27K0240, clientId=183, commodityName=Gram, moisture=11.5, temperature=null, truckNumber=null, token=7737, weight=null, varietyId=8, createdOn=1655989525679, varietyName=Desi, uuid=16813997-f665-4488-beb3-b8dcc19b054e] from assaying" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.assaying | [id=null, sampleId=MH27K0240, clientId=183, commodityName=Gram, moisture=11.5, temperature=null, truckNumber=null, token=7737, weight=null, varietyId=8, createdOn=1655989525679, varietyName=Desi, uuid=16813997-f665-4488-beb3-b8dcc19b054e]">
+    <configuration name="runner.nonweb.RunnerAnnotationConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runner.nonweb.RunnerAnnotationConfig" />
+      <module name="appcontext-core-nonweb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runner.nonweb.RunnerFileSystemXMLApplicationContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runner.nonweb.RunnerFileSystemXMLApplicationContext" />
+      <module name="appcontext-core-nonweb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assaying | [id=null, sampleId=MH27K0240, clientId=183, commodityName=Gram, moisture=11.5, temperature=null, truckNumber=null, token=7737, weight=null, varietyId=8, createdOn=1655989525679, varietyName=Desi, uuid=16813997-f665-4488-beb3-b8dcc19b054e]" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/assaying.http" index="46" requestIdentifier="[id=null, sampleId=MH27K0240, clientId=183, commodityName=Gram, moisture=11.5, temperature=null, truckNumber=null, token=7737, weight=null, varietyId=8, createdOn=1655989525679, varietyName=Desi, uuid=16813997-f665-4488-beb3-b8dcc19b054e]" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Runner (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="appcontext-boot-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="runner.Runner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="appcontext-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="runner.Runner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerSpringBootConsole" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="appcontext-core-nonweb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="runner.boot.RunnerSpringBootConsole" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.assaying | [id=null, sampleId=MH27K0240, clientId=183, commodityName=Gram, moisture=11.5, temperature=null, truckNumber=null, token=7737, weight=null, varietyId=8, createdOn=1655989525679, varietyName=Desi, uuid=16813997-f665-4488-beb3-b8dcc19b054e]" />
+        <item itemvalue="Spring Boot.Runner" />
+        <item itemvalue="Application.runner.nonweb.RunnerAnnotationConfig" />
+        <item itemvalue="Spring Boot.RunnerSpringBootConsole" />
+        <item itemvalue="Application.runner.nonweb.RunnerFileSystemXMLApplicationContext" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +163,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700989651772</updated>
+      <workItem from="1700989653162" duration="243000" />
+      <workItem from="1700989924733" duration="12642000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

@@ -3,9 +3,6 @@ package beans;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import javax.annotation.PostConstruct;
-import javax.annotation.PreDestroy;
-
 @Component
 public class SimpleBean {
 
@@ -32,15 +29,7 @@ public class SimpleBean {
 		this.simpleBean2 = simpleBean2;
 	}
 
-	@PostConstruct
-	public void init() {
-		System.out.println(getClass().getSimpleName() + "::init");
-	}
 
-	@PreDestroy
-	public void destroy() {
-		System.out.println(getClass().getSimpleName() + "::destroy");
-	}
 
 	public SimpleBean2 getSimpleBean2() {
 		return simpleBean2;
@@ -48,5 +37,9 @@ public class SimpleBean {
 
 	public SimpleBean3 getSimpleBean3() {
 		return simpleBean3;
+	}
+
+	public String getHello() {
+		return "hello";
 	}
 }
